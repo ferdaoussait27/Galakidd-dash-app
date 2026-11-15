@@ -1,0 +1,6 @@
+{
+  "name": "GalaKidd",
+  "description": "Interactive educational astronaut life simulator for children aged 7-12 with pre-flight, in-flight, and post-flight space missions, quizzes, and multilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
